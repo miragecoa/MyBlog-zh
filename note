@@ -1,0 +1,11 @@
+conda activate leaderboard-documentation
+pip install sphinx sphinx-autobuild sphinx_rtd_theme
+pip install nbsphinx nbsphinx_link
+
+cd docs/source
+sphinx-autobuild . ../build --open-browser --port 9000
+
+
+conda activate leaderboard-documentation; cd docs/source; sphinx-autobuild . ../build --open-browser --port 9000
+
+
