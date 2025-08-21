@@ -5,11 +5,26 @@
 
 ## 工作经历
 
+### 🔬 SecureFinAI Lab, Columbia University
+**职位**: 暑期实习生
+**时间**: 2025年暑期
+**地点**: 纽约, 美国
+
+**主要工作**:
+- 担任 `Open FinLLM Leaderboard <https://www.finos.org/hosted-events/2025-09-19-ai-evaluation-benchmarking-workshop>`__ 的项目负责人。
+- 与 Linux Foundation, FinOS, 和 Red Hat 等机构合作对接。
+- 该项目是更大型的评估基准套件 (evaluating benchmarking suite) 的一部分。
+- 负责组织 `AI评估基准研讨会 <https://www.finos.org/hosted-events/2025-09-19-ai-evaluation-benchmarking-workshop>`__。
+
+**合作方负责人**:
+- `Vincent Caldeira <https://www.linkedin.com/in/caldeirav/?originalSubdomain=sg>`__ (Red Hat 亚太区首席技术官)
+
+
 ### 📞 中国电信公司
-**职位**: 数据分析师  
-**部门**: 数据中心  
-**时间**: 待补充  
-**地点**: 待补充  
+**职位**: 数据分析师
+**部门**: 数据中心
+**时间**: 待补充
+**地点**: 待补充
 
 **主要工作**:
 - 部署微信聊天机器人
@@ -24,10 +39,10 @@
 - 权限管理: 自定义权限系统
 
 ### 💻 福州数字产业互联网技术
-**职位**: 软件工程师  
-**部门**: 技术研发部  
-**时间**: 待补充  
-**地点**: 福州  
+**职位**: 软件工程师
+**部门**: 技术研发部
+**时间**: 待补充
+**地点**: 福州
 
 **主要工作**:
 - 基于Mybatis框架开发服务器API
@@ -82,4 +97,4 @@
 
 ---
 
-*点击下方链接查看详细的工作经历信息。* 
+*点击下方链接查看详细的工作经历信息。*

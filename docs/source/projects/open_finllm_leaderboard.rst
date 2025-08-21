@@ -157,4 +157,6 @@ FinAgents演示展示了金融LLM在现实场景中的应用。每个演示代�
 **🏢 合作机构**
 - **FINOS Foundation**: https://www.finos.org/
   - 金融开源基金会，项目主要合作伙伴
-  - 提供行业支持和标准化指导 
+  - 提供行业支持和标准化指导
+- **Linux Foundation**: 提供了项目基础设施和社区支持
+- **Red Hat**: 在项目评估和技术架构上提供支持
