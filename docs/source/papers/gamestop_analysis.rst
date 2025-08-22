@@ -1,4 +1,4 @@
-ACM Conference Paper
+GME事件的连锁爆发分析
 ====================
 
 论文信息
