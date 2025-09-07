@@ -10,7 +10,7 @@
    `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
    documentation for details.
 
-欢迎来到我的个人博客！我是伦斯勒理工学院的一名计算机科学学生，对机器学习、人工智能和软件开发充满热情。
+欢迎来到我的个人博客！我是卡内基梅隆大学的一名计算机科学学生，对机器学习、人工智能和软件开发充满热情。
 
 .. toctree::
    :maxdepth: 2
@@ -34,7 +34,8 @@
 
    experience/overview
    experience/china_telecom
-   experience/fuzhou_digital
+   experience/fuzhou_digital_backend
+   experience/fuzhou_digital_ai
 
 
 
@@ -44,8 +45,8 @@
 
    papers/overview
    papers/open_finllm_leaderboard
-   papers/multifinben
    papers/gamestop_analysis
+   papers/multifinben
 
 .. toctree::
    :maxdepth: 2

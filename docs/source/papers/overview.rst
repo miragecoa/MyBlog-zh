@@ -14,14 +14,6 @@
 
 **摘要**: 本文介绍了Open FinLLM Leaderboard，这是一个开放的金融大语言模型评估平台。通过与Linux Foundation和Hugging Face合作，我们创建了一个用于评估和比较AI模型在广泛金融任务上性能的开放平台。
 
-### 🌍 MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation
-**发表时间**: 2025年6月  
-**期刊/会议**: arXiv  
-**DOI**: `10.48550/arXiv.2506.14028`  
-**链接**: `https://arxiv.org/abs/2506.14028`  
-
-**摘要**: 我们提出了MultiFinBen，这是第一个专为全球金融领域设计的多语言和多模态基准测试。该基准测试在领域特定任务上评估LLM在多种模态（文本、视觉、音频）和语言环境（单语、双语、多语言）中的表现。
-
 ### 🔬 Analyzing Cascading Outbreak of GameStop Event: A Practical Approach Using Network Analysis and Large Language Models
 **发表时间**: 待定  
 **期刊/会议**: ACM  
@@ -29,6 +21,14 @@
 **链接**: `https://dl.acm.org/doi/10.1145/3677052.3698636`  
 
 **摘要**: 本文提出了一种使用网络分析和大语言模型分析GameStop事件连锁爆发的实用方法，结合网络科学和自然语言处理技术，深入分析了社交媒体用户行为如何影响金融市场。
+
+### 🌍 MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation
+**发表时间**: 2025年6月  
+**期刊/会议**: arXiv  
+**DOI**: `10.48550/arXiv.2506.14028`  
+**链接**: `https://arxiv.org/abs/2506.14028`  
+
+**摘要**: 我们提出了MultiFinBen，这是第一个专为全球金融领域设计的多语言和多模态基准测试。该基准测试在领域特定任务上评估LLM在多种模态（文本、视觉、音频）和语言环境（单语、双语、多语言）中的表现。
 
 研究领域
 --------

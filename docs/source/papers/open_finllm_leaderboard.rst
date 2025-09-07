@@ -16,12 +16,21 @@ Open FinLLM Leaderboard: Towards Financial AI Readiness
 
 具有多模态能力的金融大语言模型（FinLLMs）被设想为在商业、金融、会计和审计领域彻底改变应用。然而，实际采用需要FinLLMs和FinAgents性能的稳健基准。维护开放的排行榜对于鼓励创新采用和提高模型有效性至关重要。
 
-在与Linux Foundation和Hugging Face的合作下，我们创建了一个开放的FinLLM排行榜，作为评估和比较AI模型在广泛金融任务上性能的开放平台。通过民主化获取金融知识和智能的进步，聊天机器人或代理可以在几个月的使用内将普通公众的分析能力提升到专业水平。
+**项目合作背景**：
+本项目是与FINOS Foundation的重要合作成果，得到了多个顶尖机构的支持：
+- **Red Hat CTO**: 担任项目经理，提供战略指导
+- **SecureFinAI Lab, Columbia University**: 核心学术合作伙伴
+- **FinAI学术联盟**: Yale大学、Harvard大学、Manchester大学、Montreal大学
+- **Linux Foundation和Hugging Face**: 技术平台支持
+
+在这一强大的合作框架下，我们创建了一个开放的FinLLM排行榜，作为评估和比较AI模型在广泛金融任务上性能的开放平台。通过民主化获取金融知识和智能的进步，聊天机器人或代理可以在几个月的使用内将普通公众的分析能力提升到专业水平。
+
+作为2025年暑期SecureFinAI Lab的研究助理，我主管该项目的运营，并成功举办了SecureFinAI Contest 2025竞赛，进一步推动了金融AI领域的发展。
 
 这个开放的排行榜欢迎来自学术界、开源社区、行业和利益相关者的贡献。特别是，我们鼓励贡献新的数据集、任务和模型以进行持续更新。通过培养协作和开放的生态系统，我们寻求促进金融AI就绪性。
 
-研究背景
---------
+研究背景与动机
+----------------
 
 随着大语言模型技术的快速发展，金融AI领域面临着以下挑战：
 
@@ -30,7 +39,14 @@ Open FinLLM Leaderboard: Towards Financial AI Readiness
 3. **封闭性**: 许多评估平台缺乏开放性和透明度
 4. **实用性不足**: 评估结果与实际应用场景存在差距
 
-为了解决这些问题，我们提出了Open FinLLM Leaderboard项目。
+**项目框架背景**：
+本研究是FINOS Applied GenAI计划的重要组成部分。Applied GenAI是一个专注于"金融服务中生成式AI应用的评估和基准测试套件(Evaluation and benchmarking suite for Generative AI applications in financial services)"的大型项目框架。
+
+**研究动机**：
+- **探索金融用例(Explore Financial Use Cases)**: 系统性地探索和评估生成式AI在金融领域的多样化应用场景，涵盖从传统金融分析到新兴金融科技的各个方面
+- **推动金融领域事实标准(Promote a de facto standard in financial area)**: 通过建立开放、透明、可复现的评估框架，推动金融AI评估标准的建立和普及，为行业发展提供统一的参考基准
+
+为了解决这些问题并实现研究目标，我们提出了Open FinLLM Leaderboard项目。
 
 技术贡献
 --------
