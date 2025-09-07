@@ -26,7 +26,7 @@
 ## 联系方式
 
 - **邮箱**: linshengyuan.work@gmail.com, shengyu3@andrew.cmu.edu
-- **LinkedIn**: [林圣远](https://www.linkedin.com/in/shengyuan-lin/)
+- **LinkedIn**: [林圣远](https://www.linkedin.com/in/colin-lin-093b55294/)
 - **GitHub**: [leyradc](https://github.com/leyradc)
 
 ---

@@ -26,7 +26,7 @@ As the Project Leader of the Open FinLLM Leaderboard, I am collaborating with FI
 ## Contact Information
 
 - **Email**: linshengyuan.work@gmail.com, shengyu3@andrew.cmu.edu
-- **LinkedIn**: [Shengyuan Lin](https://www.linkedin.com/in/shengyuan-lin/)
+- **LinkedIn**: [Shengyuan Lin](https://www.linkedin.com/in/colin-lin-093b55294/)
 - **GitHub**: [leyradc](https://github.com/leyradc)
 
 ---
