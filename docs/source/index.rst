@@ -25,6 +25,8 @@
 
    projects/overview
    projects/open_finllm_leaderboard
+   projects/ai_wenshu
+   projects/miracle_games_portal
    projects/gme_event_analysis
    projects/handwritten_digits
 
